@@ -22,3 +22,4 @@
   <li>Use jQuery to create a <code>mouseover</code> listener that changes the text of these list items (you choose the text that it changes to).</li>
 </ol>
 
+## Event Listener and Text Binding
