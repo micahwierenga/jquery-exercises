@@ -23,3 +23,7 @@
 </ol>
 
 ## Event Listener and Text Binding
+<ol>
+  <li>Create an input.</li>
+  <li>Use jQuery to create a <code>keyup</code> listener that takes the value of the input and puts it on the page in real-time.</li>
+</ol>
